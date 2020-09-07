@@ -6,7 +6,7 @@ This code is python and can run usb relay.
 Product detail (1 Channel USB relay)
 ------------------------------------
 
-<img src="usb_relay.jpg" width="40%" height="30%"></img>
+<img src="docs/img/usb_relay.jpg" width="40%" height="30%"></img>
 
 This one can buy [here (1channel usb relay)](http://vctec.co.kr/product/1%EC%B1%84%EB%84%90-usb-%EB%A6%B4%EB%A0%88%EC%9D%B4-10a-1-channel-usb-relay-10a/14806/#none)
 
