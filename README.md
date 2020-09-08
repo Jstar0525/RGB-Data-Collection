@@ -29,11 +29,11 @@ https://pmdtec.com/picofamily/software/
 
 ## Data
 
-Data collected in **data** folder
+collect dataset in **data** folder
 
 ### realsense
 
-Dataset collecte to like this:
+collects realsense dataset to like this:
 
 * ir_on : IR projector turn on and get gray stereo images and depth
 * rgb : IR projector turn on and get rgb image and depth align with rgb
