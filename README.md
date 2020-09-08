@@ -1,7 +1,7 @@
 # RGB-Data-Collection
 Get data from "Intel Realsense D435i", "Zed2", "PMD pico monstar" and using Relay.
 
-<img src="docs/img/camera_setting.jpg" width="40%" height="30%"></img>
+<img src="docs/img/camera_setting.jpg" width="30%" height="30%"></img>
 
 ## SDK
 
