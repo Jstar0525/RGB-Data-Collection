@@ -29,11 +29,11 @@ https://pmdtec.com/picofamily/software/
 
 ## Data
 
-collect dataset in **data** folder
+dataset is collected in **data** folder
 
 ### intel realsense D435i
 
-collects **realsense** dataset to like this:
+**realsense** collects dataset like this:
 
 * ir_on : IR projector turn on and get gray stereo images and depth
 * rgb : IR projector turn on and get rgb image and depth align with rgb
@@ -50,7 +50,7 @@ collects **realsense** dataset to like this:
 
 ### Zed2
 
-collects **Zed2** dataset to like this:
+**Zed2** collects dataset like this:
 
 * get rgb stereo images, depth, disparity and confidence
 
@@ -59,7 +59,7 @@ collects **Zed2** dataset to like this:
 
 ### PMD pico monstar
 
-collects **PMD pico monstar** dataset to like this:
+**PMD pico monstar** collects dataset like this:
 
 * distort : get origimal gray image and depth
 * undistort : get distortion correction gray image and depth
