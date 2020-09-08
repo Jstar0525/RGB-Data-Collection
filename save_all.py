@@ -264,8 +264,8 @@ while True:
     # Save data
     save_ir_off_depth = ir_off_path + depth_path + timer
     save_ir_off_depth_map = ir_off_path + depth_map_path + timer  + png_ext
-    save_ir_off_left = ir_off_path + right_path + timer  + png_ext
-    save_ir_off_right = ir_off_path + left_path + timer + png_ext
+    save_ir_off_left = ir_off_path + left_path + timer  + png_ext
+    save_ir_off_right = ir_off_path + right_path + timer + png_ext
 
     np.save(save_ir_off_depth, ir_off_depth_image)
     cv2.imwrite(save_ir_off_depth_map, ir_off_depth_map)
