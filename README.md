@@ -48,3 +48,5 @@ collects realsense dataset to like this:
 #### ir_off
 <img src="data/realsense/ir_off/left_20200827_175657.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/right_20200827_175657.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/depth_map_20200827_175657.png" width="30%" height="30%"></img>
 
+#### Zed2
+
