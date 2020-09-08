@@ -64,3 +64,4 @@ collects **PMD pico monstar** dataset to like this:
 * undistort : get distortion correction gray image and depth
 
 <img src="data/pico/distort/gray_img_20200827_175703.png" width="30%" height="30%"></img> <img src="data/pico/distort/depth_map_20200827_175703.png" width="30%" height="30%"></img>
+<img src="data/pico/undistort/gray_img_20200827_175703.png" width="30%" height="30%"></img> <img src="data/pico/undistort/depth_map_20200827_175703.png" width="30%" height="30%"></img>
