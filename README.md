@@ -39,13 +39,13 @@ collects **realsense** dataset to like this:
 * rgb : IR projector turn on and get rgb image and depth align with rgb
 * ir_off : IR projector turn off and get gray stereo images and depth
 
-#### ir_on
+#### realsense/ir_on
 <img src="data/realsense/ir_on/left_20200827_175655.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/right_20200827_175655.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/depth_map_20200827_175655.png" width="30%" height="30%"></img>
 
-#### rgb
+#### realsense/rgb
 <img src="data/realsense/rgb/rgb_20200827_175655.png" width="30%" height="30%"> <img src="data/realsense/rgb/depth_map_20200827_175655.png" width="30%" height="30%">
 
-#### ir_off
+#### realsense/ir_off
 <img src="data/realsense/ir_off/left_20200827_175657.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/right_20200827_175657.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/depth_map_20200827_175657.png" width="30%" height="30%"></img>
 
 ### Zed2
@@ -54,6 +54,7 @@ collects **Zed2** dataset to like this:
 
 * get rgb stereo images, depth, disparity and confidence
 
+### zed
 <img src="data/zed/left_20200827_175701.png" width="30%" height="30%"></img> <img src="data/zed/right_20200827_175701.png" width="30%" height="30%"></img> <img src="data/zed/depth_map_20200827_175701.png" width="30%" height="30%"></img>
 
 ### PMD pico monstar
@@ -63,5 +64,8 @@ collects **PMD pico monstar** dataset to like this:
 * distort : get origimal gray image and depth
 * undistort : get distortion correction gray image and depth
 
+#### pico/distort
 <img src="data/pico/distort/gray_img_20200827_175703.png" width="30%" height="30%"></img> <img src="data/pico/distort/depth_map_20200827_175703.png" width="30%" height="30%"></img>
+
+#### pico/undistort
 <img src="data/pico/undistort/gray_img_20200827_175703.png" width="30%" height="30%"></img> <img src="data/pico/undistort/depth_map_20200827_175703.png" width="30%" height="30%"></img>
