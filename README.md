@@ -31,9 +31,9 @@ https://pmdtec.com/picofamily/software/
 
 collect dataset in **data** folder
 
-### realsense
+### intel realsense D435i
 
-collects realsense dataset to like this:
+collects **realsense** dataset to like this:
 
 * ir_on : IR projector turn on and get gray stereo images and depth
 * rgb : IR projector turn on and get rgb image and depth align with rgb
@@ -50,8 +50,17 @@ collects realsense dataset to like this:
 
 ### Zed2
 
-collects Zed2 dataset to like this:
+collects **Zed2** dataset to like this:
 
-* rgb stereo images, depth, disparity and confidence
+* get rgb stereo images, depth, disparity and confidence
 
 <img src="data/zed/left_20200827_175701.png" width="30%" height="30%"></img> <img src="data/zed/right_20200827_175701.png" width="30%" height="30%"></img> <img src="data/zed/depth_map_20200827_175701.png" width="30%" height="30%"></img>
+
+### PMD pico monstar
+
+collects **PMD pico monstar** dataset to like this:
+
+* distort : get origimal gray image and depth
+* undistort : get distortion correction gray image and depth
+
+<img src="data/pico/distort/gray_img_20200827_175703.png" width="30%" height="30%"></img> <img src="data/pico/distort/depth_map_20200827_175703.png" width="30%" height="30%"></img>
