@@ -80,7 +80,7 @@ dataset is collected in **data** folder
 
 ### data/zed
 <img src="data/zed/left_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/right_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/depth_map_20200910_142449.png" width="30%" height="30%"></img>
-<img src="data/zed/disparity_map_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/confidence_map _20200910_142449.png" width="30%" height="30%"></img>
+<img src="data/zed/disparity_map_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/confidence_map_20200910_142449.png" width="30%" height="30%"></img>
 
 ### PMD pico monstar
 
