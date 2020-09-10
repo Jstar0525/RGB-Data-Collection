@@ -1,5 +1,5 @@
 # RGB-Data-Collection
-Get data from "Intel Realsense D435i", "Zed2", "PMD pico monstar" and using Relay.
+Get RGBD(image and depth) data from "Intel Realsense D435i", "Zed2", "PMD pico monstar" and using Relay.
 
 <img src="docs/img/camera_setting.jpg" width="30%" height="30%"></img>
 
@@ -31,7 +31,7 @@ https://pmdtec.com/picofamily/software/
 
 <img src="docs/relay/usb_relay.jpg" width="20%" height="20%"></img>
 
-please check below site about a USB relay information
+please check below README.md about a USB relay information
 
 https://github.com/Jstar0525/RGBD-Data-Collection/tree/master/usb_relay
 
@@ -39,7 +39,7 @@ https://github.com/Jstar0525/RGBD-Data-Collection/tree/master/usb_relay
 
 dataset is collected in **data** folder
 
-### intel realsense D435i
+### intel RealSense D435i
 
 * ir_on : IR projector turn on and get gray stereo images and depth
   * left_date_time.png
