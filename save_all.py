@@ -177,7 +177,7 @@ while True:
     ir2_image = np.asanyarray(ir2_frame.get_data())
 
     # Render images
-    ir_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(ir_depth_image, alpha=0.05), cv2.COLORMAP_JET)
+    ir_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(ir_depth_image, alpha=0.2), cv2.COLORMAP_JET)
 
     # Save data
     save_ir_on_depth = ir_on_path + depth_path + timer
@@ -217,7 +217,7 @@ while True:
     color_depth_image = np.asanyarray(aligned_depth_frame.get_data())
 
     # Render images
-    color_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(color_depth_image, alpha=0.05), cv2.COLORMAP_JET)
+    color_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(color_depth_image, alpha=0.2), cv2.COLORMAP_JET)
 
     # Save data
     save_rgb = align_rgb_path + rgb_path + timer + png_ext
@@ -259,7 +259,7 @@ while True:
     ir_off_right_image = np.asanyarray(ir2_frame.get_data())
 
     # Render images
-    ir_off_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(ir_off_depth_image, alpha=0.05), cv2.COLORMAP_JET)
+    ir_off_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(ir_off_depth_image, alpha=0.2), cv2.COLORMAP_JET)
 
     # Save data
     save_ir_off_depth = ir_off_path + depth_path + timer
@@ -352,7 +352,7 @@ while True:
     timer = time.strftime('%Y%m%d_%H%M%S')
 
     # Render images
-    Distort_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(Distort_gzImage8, alpha=0.7), cv2.COLORMAP_JET)
+    Distort_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(Distort_gzImage8, alpha=1.2), cv2.COLORMAP_JET)
 
     #Save data
     save_distort_img = distort_path + img_path + timer + png_ext
@@ -364,7 +364,7 @@ while True:
     cv2.imwrite(save_distort_depth_map, Distort_depth_map)
 
     # Render images
-    Undistort_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(Undistort_gzImage8, alpha=0.7), cv2.COLORMAP_JET)
+    Undistort_depth_map = cv2.applyColorMap(cv2.convertScaleAbs(Undistort_gzImage8, alpha=1.2), cv2.COLORMAP_JET)
 
     # Save data
     save_undistort_img = undistort_path + img_path + timer + png_ext
