@@ -31,7 +31,7 @@ https://pmdtec.com/picofamily/software/
 
 <img src="docs/relay/usb_relay.jpg" width="20%" height="20%"></img>
 
-please check below site about a USB relay
+please check below site about a USB relay information
 
 https://github.com/Jstar0525/RGBD-Data-Collection/tree/master/usb_relay
 
@@ -40,8 +40,6 @@ https://github.com/Jstar0525/RGBD-Data-Collection/tree/master/usb_relay
 dataset is collected in **data** folder
 
 ### intel realsense D435i
-
-**realsense** collects dataset like this:
 
 * ir_on : IR projector turn on and get gray stereo images and depth
   * left_date_time.png
@@ -68,8 +66,6 @@ dataset is collected in **data** folder
 
 ### Zed2
 
-**Zed2** collects dataset like this:
-
 * get rgb stereo images, depth, disparity and confidence
   * left_date_time.png
   * right_date_time.png
@@ -83,8 +79,6 @@ dataset is collected in **data** folder
 <img src="data/zed/disparity_map_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/confidence_map_20200910_142449.png" width="30%" height="30%"></img>
 
 ### PMD pico monstar
-
-**PMD pico monstar** collects dataset like this:
 
 * distort : get origimal gray image and depth
   * gray_img_date_time.png
