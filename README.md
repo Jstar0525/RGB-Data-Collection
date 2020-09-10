@@ -27,6 +27,12 @@ To start using the Royale SDK, you should refer to this site:
 
 https://pmdtec.com/picofamily/software/
 
+## About USB relay
+
+please check below site about a USB relay
+
+https://github.com/Jstar0525/RGBD-Data-Collection/tree/master/usb_relay
+
 ## Data
 
 dataset is collected in **data** folder
