@@ -3,7 +3,7 @@ Get RGBD(image and depth) data from "Intel Realsense D435i", "Zed2", "PMD pico m
 
 and using Relay (for the night environment, connect with LED light).
 
-I use 'Google Drive' for upload data in the cloud directly
+I use 'Google Drive' for upload data directly into the cloud.
 
 <img src="docs/img/camera_setting.jpg" width="30%" height="30%"></img>
 
