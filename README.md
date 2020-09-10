@@ -29,7 +29,7 @@ https://pmdtec.com/picofamily/software/
 
 ## About USB relay
 
-<img src="docs/relay/usb_relay.jpg" width="40%" height="30%"></img>
+<img src="docs/relay/usb_relay.jpg" width="20%" height="20%"></img>
 
 please check below site about a USB relay
 
