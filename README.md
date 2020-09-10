@@ -48,13 +48,13 @@ dataset is collected in **data** folder
 * ir_off : IR projector turn off and get gray stereo images and depth
 
 #### data/realsense/ir_on
-<img src="data/realsense/ir_on/left_20200827_175655.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/right_20200827_175655.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/depth_map_20200827_175655.png" width="30%" height="30%"></img>
+<img src="data/realsense/ir_on/left_20200910_142443.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/right_20200910_142443.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/depth_map_20200910_142443.png" width="30%" height="30%"></img>
 
 #### data/realsense/rgb
-<img src="data/realsense/rgb/rgb_20200827_175655.png" width="30%" height="30%"> <img src="data/realsense/rgb/depth_map_20200827_175655.png" width="30%" height="30%">
+<img src="data/realsense/rgb/rgb_20200910_142443.png" width="30%" height="30%"> <img src="data/realsense/rgb/depth_map_20200910_142443.png" width="30%" height="30%">
 
 #### data/realsense/ir_off
-<img src="data/realsense/ir_off/left_20200827_175657.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/right_20200827_175657.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/depth_map_20200827_175657.png" width="30%" height="30%"></img>
+<img src="data/realsense/ir_off/left_20200910_142445.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/right_20200910_142445.png" width="30%" height="30%"></img> <img src="data/realsense/ir_off/depth_map_20200910_142445.png" width="30%" height="30%"></img>
 
 ### Zed2
 
@@ -63,7 +63,7 @@ dataset is collected in **data** folder
 * get rgb stereo images, depth, disparity and confidence
 
 ### data/zed
-<img src="data/zed/left_20200827_175701.png" width="30%" height="30%"></img> <img src="data/zed/right_20200827_175701.png" width="30%" height="30%"></img> <img src="data/zed/depth_map_20200827_175701.png" width="30%" height="30%"></img>
+<img src="data/zed/left_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/right_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/depth_map_20200910_142449.png" width="30%" height="30%"></img>
 
 ### PMD pico monstar
 
@@ -73,7 +73,7 @@ dataset is collected in **data** folder
 * undistort : get distortion correction gray image and depth
 
 #### data/pico/distort
-<img src="data/pico/distort/gray_img_20200827_175703.png" width="30%" height="30%"></img> <img src="data/pico/distort/depth_map_20200827_175703.png" width="30%" height="30%"></img>
+<img src="data/pico/distort/gray_img_20200910_142450.png" width="30%" height="30%"></img> <img src="data/pico/distort/depth_map_20200910_142450.png" width="30%" height="30%"></img>
 
 #### data/pico/undistort
-<img src="data/pico/undistort/gray_img_20200827_175703.png" width="30%" height="30%"></img> <img src="data/pico/undistort/depth_map_20200827_175703.png" width="30%" height="30%"></img>
+<img src="data/pico/undistort/gray_img_20200910_142450.png" width="30%" height="30%"></img> <img src="data/pico/undistort/depth_map_20200910_142450.png" width="30%" height="30%"></img>
