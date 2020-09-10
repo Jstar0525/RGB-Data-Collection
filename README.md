@@ -1,5 +1,6 @@
 # RGBD Data Collection
-Get RGBD(image and depth) data from "Intel Realsense D435i", "Zed2", "PMD pico monstar" and using Relay(for the night env).
+### Get RGBD(image and depth) data from "Intel Realsense D435i", "Zed2", "PMD pico monstar" 
+### and using Relay(for the night environment, connetct with LED light).
 
 <img src="docs/img/camera_setting.jpg" width="30%" height="30%"></img>
 
