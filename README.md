@@ -44,8 +44,19 @@ dataset is collected in **data** folder
 **realsense** collects dataset like this:
 
 * ir_on : IR projector turn on and get gray stereo images and depth
+  * left_date_time.png
+  * right_date_time.png
+  * depth_date_time.npy
+  * depth_map_date_time.png
 * rgb : IR projector turn on and get rgb image and depth align with rgb
+  * rgb_date_time.png
+  * depth_date_time.npy
+  * depth_map_date_time.png
 * ir_off : IR projector turn off and get gray stereo images and depth
+  * left_date_time.png
+  * right_date_time.png
+  * depth_date_time.npy
+  * depth_map_date_time.png
 
 #### data/realsense/ir_on
 <img src="data/realsense/ir_on/left_20200910_142443.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/right_20200910_142443.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/depth_map_20200910_142443.png" width="30%" height="30%"></img>
@@ -61,6 +72,12 @@ dataset is collected in **data** folder
 **Zed2** collects dataset like this:
 
 * get rgb stereo images, depth, disparity and confidence
+  * left_date_time.png
+  * right_date_time.png
+  * depth_date_time.npy
+  * depth_map_date_time.png
+  * confidence_date_time.npy
+  * disparity_date_time.npy
 
 ### data/zed
 <img src="data/zed/left_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/right_20200910_142449.png" width="30%" height="30%"></img> <img src="data/zed/depth_map_20200910_142449.png" width="30%" height="30%"></img>
@@ -70,7 +87,13 @@ dataset is collected in **data** folder
 **PMD pico monstar** collects dataset like this:
 
 * distort : get origimal gray image and depth
+  * gray_img_date_time.png
+  * depth_date_time.npy
+  * depth_map_date_time.png
 * undistort : get distortion correction gray image and depth
+  * gray_img_date_time.png
+  * depth_date_time.npy
+  * depth_map_date_time.png
 
 #### data/pico/distort
 <img src="data/pico/distort/gray_img_20200910_142450.png" width="30%" height="30%"></img> <img src="data/pico/distort/depth_map_20200910_142450.png" width="30%" height="30%"></img>
