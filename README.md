@@ -45,7 +45,7 @@ dataset is collected in **data** folder
 
 ### intel RealSense D435i
 
-* ir_on : IR projector turn on and get gray stereo images and depth
+* ir_on : IR projector turn on and get monochrome stereo images and depth
   * left_date_time.png
   * right_date_time.png
   * depth_date_time.npy
@@ -60,7 +60,7 @@ dataset is collected in **data** folder
 #### data/realsense/rgb
 <img src="data/realsense/rgb/rgb_20200910_142443.png" width="30%" height="30%"> <img src="data/realsense/rgb/depth_map_20200910_142443.png" width="30%" height="30%">
 
-* ir_off : IR projector turn off and get gray stereo images and depth
+* ir_off : IR projector turn off and get monochrome stereo images and depth
   * left_date_time.png
   * right_date_time.png
   * depth_date_time.npy
@@ -91,7 +91,7 @@ dataset is collected in **data** folder
 #### data/pico/distort
 <img src="data/pico/distort/gray_img_20200910_142450.png" width="30%" height="30%"></img> <img src="data/pico/distort/depth_map_20200910_142450.png" width="30%" height="30%"></img>  
 
-* undistort : get distortion correction gray image and depth
+* undistort : get distortion correction monochrome image and depth
   * gray_img_date_time.png
   * depth_date_time.npy
   * depth_map_date_time.png
