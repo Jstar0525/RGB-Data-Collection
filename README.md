@@ -51,7 +51,7 @@ dataset is collected in **data** folder
   * depth_date_time.npy
   * depth_map_date_time.png
 #### data/realsense/ir_on
-<img src="data/realsense/ir_on/left_20200910_142443.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/right_20200910_142443.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/depth_map_20200910_142443.png" width="30%" height="30%"></img>
+<img src="data/realsense/ir_on/left_20200819_235924.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/right_20200819_235924.png" width="30%" height="30%"></img> <img src="data/realsense/ir_on/depth_map_20200819_235924.png" width="30%" height="30%"></img>
 
 * rgb : IR projector turn on and get rgb image and depth align with rgb
   * rgb_date_time.png
